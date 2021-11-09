@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PortalCont : MonoBehaviour
+public class PortalCont2 : MonoBehaviour
 {
     public Transform land1, land2;
     public Transform playerRoot, playerCam;
@@ -11,18 +11,18 @@ public class PortalCont : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
-
+    
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        
         //Vector3 playerOffset = playerCam.position - land1.position;
-
         //구한 오프셋을 랜드2의 포지션에 더하여 포털캠에 입힌다.
         //portalCam.position = portal.position + playerOffset;
+
     }
 
     //텔레포트 구현 클래스
