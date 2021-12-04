@@ -1,0 +1,146 @@
+syntax = "proto3";
+
+package virtual;
+
+service data_stream{
+    rpc stream(streamRequest) returns (streamReply) {}
+}
+
+message streamRequest{
+    int32 n1 = 1;
+}
+
+message streamReply{
+
+    float landmark_x1 = 1;
+    float landmark_y1 = 2;
+    float landmark_z1 = 3;
+
+    float landmark_x2 = 4;
+    float landmark_y2 = 5;
+    float landmark_z2 = 6;
+
+    float landmark_x3 = 7;
+    float landmark_y3 = 8;
+    float landmark_z3 = 9;
+
+    float landmark_x4 = 10;
+    float landmark_y4 = 11;
+    float landmark_z4 = 12;
+
+    float landmark_x5 = 13;
+    float landmark_y5 = 14;
+    float landmark_z5 = 15;
+
+    float landmark_x6 = 16;
+    float landmark_y6 = 17;
+    float landmark_z6 = 18;
+
+    float landmark_x7 = 19;
+    float landmark_y7 = 20;
+    float landmark_z7 = 21;
+
+    float landmark_x8 = 22;
+    float landmark_y8 = 23;
+    float landmark_z8 = 24;
+
+    float landmark_x9 = 25;
+    float landmark_y9 = 26;
+    float landmark_z9 = 27;
+
+    float landmark_x10 = 28;
+    float landmark_y10 = 29;
+    float landmark_z10 = 30;
+
+    float landmark_x11 = 31;
+    float landmark_y11 = 32;
+    float landmark_z11 = 33;
+
+    float landmark_x12 = 34;
+    float landmark_y12 = 35;
+    float landmark_z12 = 36;
+
+    float landmark_x13 = 37;
+    float landmark_y13 = 38;
+    float landmark_z13 = 39;
+
+    float landmark_x14 = 40;
+    float landmark_y14 = 41;
+    float landmark_z14 = 42;
+
+    float landmark_x15 = 43;
+    float landmark_y15 = 44;
+    float landmark_z15 = 45;
+
+    float landmark_x16 = 46;
+    float landmark_y16 = 47;
+    float landmark_z16 = 48;
+
+    float landmark_x17 = 49;
+    float landmark_y17 = 50;
+    float landmark_z17 = 51;
+
+    float landmark_x18 = 52;
+    float landmark_y18 = 53;
+    float landmark_z18 = 54;
+
+    float landmark_x19 = 55;
+    float landmark_y19 = 56;
+    float landmark_z19 = 57;
+
+    float landmark_x20 = 58;
+    float landmark_y20 = 59;
+    float landmark_z20 = 60;
+
+    float landmark_x21 = 61;
+    float landmark_y21 = 62;
+    float landmark_z21 = 63;
+
+    float landmark_x22 = 64;
+    float landmark_y22 = 65;
+    float landmark_z22 = 66;
+
+    float landmark_x23 = 67;
+    float landmark_y23 = 68;
+    float landmark_z23 = 69;
+
+    float landmark_x24 = 70;
+    float landmark_y24 = 71;
+    float landmark_z24 = 72;
+
+    float landmark_x25 = 73;
+    float landmark_y25 = 74;
+    float landmark_z25 = 75;
+
+    float landmark_x26 = 76;
+    float landmark_y26 = 77;
+    float landmark_z26 = 78;
+
+    float landmark_x27 = 79;
+    float landmark_y27 = 80;
+    float landmark_z27 = 81;
+
+    float landmark_x28 = 82;
+    float landmark_y28 = 83;
+    float landmark_z28 = 84;
+
+    float landmark_x29 = 85;
+    float landmark_y29 = 86;
+    float landmark_z29 = 87;
+
+    float landmark_x30 = 88;
+    float landmark_y30 = 89;
+    float landmark_z30 = 90;
+
+    float landmark_x31 = 91;
+    float landmark_y31 = 92;
+    float landmark_z31 = 93;
+
+    float landmark_x32 = 94;
+    float landmark_y32 = 95;
+    float landmark_z32 = 96;
+
+    float landmark_x33 = 97;
+    float landmark_y33 = 98;
+    float landmark_z33 = 99;
+}
