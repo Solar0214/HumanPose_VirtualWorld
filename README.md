@@ -3,7 +3,9 @@ This project clearly non-profit project that used ONLY for educational purpose.
 
 ## Team Name: NullNull31
 ## ComputerVision: HumanPose + DL + ML + Server + Unity
+
 <img width="40%" src="https://user-images.githubusercontent.com/54482832/209670468-2f195029-9dbc-46c3-80c5-e5908aafb38c.gif"/>
+
 
 Welcome to Virtual World!
 
@@ -24,18 +26,20 @@ Good luck!
 
 INFO: Full prom and demo videos are included in a folder with presentation file.
 
-# Instruction
-<img width="30%" src="https://user-images.githubusercontent.com/54482832/209673156-e63c9024-21e6-4635-95a7-4d373c5b2bed.gif"/>
-#squat
+# Motion Controller Instruction
+
+[JUMP - SQUAT]
+
+<img width="50%" src="https://user-images.githubusercontent.com/54482832/209673156-e63c9024-21e6-4635-95a7-4d373c5b2bed.gif"/> 
 
 
 
-<img width="30%" src="https://user-images.githubusercontent.com/54482832/209673207-90e211e1-51bc-4c45-b3db-69f1de36803f.gif"/>
-The bot attack as you swing you arm
+[ATTAK - SWING ARM]
+
+<img width="50%" src="https://user-images.githubusercontent.com/54482832/209673207-90e211e1-51bc-4c45-b3db-69f1de36803f.gif"/>
 
 
 
-<img width="30%" src="https://user-images.githubusercontent.com/54482832/209673260-ef8d3b38-1609-43af-98bb-0a6f4cc6ffdd.gif"/>
-The bot walks forward as you side-stepping
+[WALK - SIDE-STEPPING]
 
-
+<img width="50%" src="https://user-images.githubusercontent.com/54482832/209673260-ef8d3b38-1609-43af-98bb-0a6f4cc6ffdd.gif"/>
